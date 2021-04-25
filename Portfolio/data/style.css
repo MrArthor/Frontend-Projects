@@ -164,8 +164,8 @@ html {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-top: 2px solid white;
-    border-bottom: 2px solid white;
+    border-top: 2px ridge #ce1212;
+    border-bottom: 2px ridge #ce1212;
 }
 
 .progress-bars-wrapper {
@@ -251,8 +251,8 @@ html {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-top: 2px solid white;
-    border-bottom: 2px solid white;
+    border-top: 2px ridge #ce1212;
+    border-bottom: 2px ridge #ce1212;
 }
 
 .projects-wrapper {
@@ -396,8 +396,8 @@ html {
     height: 30vh;
     background-color: #1b1717;
     flex-direction: column;
-    border-top: 2px solid white;
-    border-bottom: 2px solid white;
+    border-top: 2px ridge #ce1212;
+    border-bottom: 2px ridge #ce1212;
 }
 
 .social-media {
