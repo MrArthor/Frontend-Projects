@@ -505,5 +505,21 @@ html {
     }
 }
 
+.Contat-Details {
+    color: #fff;
+    text-align: justify;
+    width: 50rem;
+    border: 0.1rem solid #fff;
+    padding: 2rem;
+    /* font-weight: 400;*/
+    text-shadow: 0.2rem 0.2rem 0.5rem #41FF00;
+    font-size: 2rem;
+}
+
+.Contat-Details-Values {
+    padding-right: 2rem;
+    text-align: Right;
+}
+
 
 /* End of Responsive */
