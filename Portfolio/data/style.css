@@ -353,6 +353,8 @@ html {
     margin-bottom: 5rem;
 }
 
+
+/* 
 .contact-form {
     width: 50rem;
     flex-direction: column;
@@ -383,6 +385,22 @@ html {
     letter-spacing: 1rem;
     cursor: pointer;
     border: 2px solid white;
+} */
+
+.Contat-Details {
+    color: #fff;
+    text-align: justify;
+    width: 50rem;
+    border: 0.1rem solid #fff;
+    padding: 2rem;
+    /* font-weight: 400;*/
+    text-shadow: 0.2rem 0.2rem 0.5rem #41FF00;
+    font-size: 2rem;
+}
+
+.Contat-Details-Values {
+    padding-right: 2rem;
+    text-align: Right;
 }
 
 
@@ -503,22 +521,6 @@ html {
     .progress-bar {
         width: 40rem;
     }
-}
-
-.Contat-Details {
-    color: #fff;
-    text-align: justify;
-    width: 50rem;
-    border: 0.1rem solid #fff;
-    padding: 2rem;
-    /* font-weight: 400;*/
-    text-shadow: 0.2rem 0.2rem 0.5rem #41FF00;
-    font-size: 2rem;
-}
-
-.Contat-Details-Values {
-    padding-right: 2rem;
-    text-align: Right;
 }
 
 
