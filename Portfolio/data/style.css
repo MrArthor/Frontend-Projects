@@ -305,6 +305,7 @@ html {
 
 .project-img {
     width: 40rem;
+    height: 20rem;
     transition: opacity 0.3s;
 }
 
