@@ -6,4 +6,5 @@
     4. [Patatap Interactives](https://mrarthor.github.io/Frontend-Projects/Patatap_Project/)  
     5. [Todo List](https://mrarthor.github.io/Frontend-Projects/Todo_List/)  
     6. [Blog Website](https://mrarthor.github.io/Frontend-Projects/Blog/)  
-    7. [Pattern Selection](https://mrarthor.github.io/Frontend-Projects/Pattern_Selection_Page/)
+    7. [Pattern Selection](https://mrarthor.github.io/Frontend-Projects/Pattern_Selection_Page/)  
+    8. [Analog Clock](https://mrarthor.github.io/Frontend-Projects/Analog_Clock/)
